@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/white-tee-landscape/',
   title: 'White Tee Landscape',
   description: 'Research hub for the single-product white T-shirt market',
   cleanUrls: true,
